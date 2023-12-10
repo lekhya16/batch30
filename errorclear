@@ -1,0 +1,4 @@
+is sonarqube inactive ?
+try this command
+cd --
+grep "Killed process" /var/log/syslog
